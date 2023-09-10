@@ -1,0 +1,12 @@
+{
+  "pages": [{
+    "name": "Home",
+    "doc": "index"
+  },
+  {
+    "name": "About",
+    "doc": "about"
+  }],
+  "logo": "logo.png",
+  "action": "//carbon.toggled.tech"
+}
