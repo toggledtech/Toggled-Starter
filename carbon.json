@@ -8,6 +8,9 @@
     "doc": "about"
   }],
   "logo": "carbon.png",
-  "action": "//carbon.toggled.tech",
+  "action": {
+    "URL": "//carbon.toggled.tech",
+    "text": "Try Carbon"
+  },
   "title": "Carbon Starter"
 }
