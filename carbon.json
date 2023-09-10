@@ -8,5 +8,6 @@
     "doc": "about"
   }],
   "logo": "carbon.png",
-  "action": "//carbon.toggled.tech"
+  "action": "//carbon.toggled.tech",
+  "title": "Carbon Starter"
 }
