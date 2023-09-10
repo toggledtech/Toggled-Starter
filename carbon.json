@@ -6,6 +6,10 @@
   {
     "name": "About",
     "doc": "about"
+  },
+  {
+    "name": "Development",
+    "doc": "README"
   }],
   "logo": "carbon.png",
   "action": {
