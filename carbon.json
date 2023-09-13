@@ -16,5 +16,10 @@
     "URL": "//carbon.toggled.tech",
     "text": "Try Carbon"
   },
-  "title": "Carbon Starter"
+  "title": "Carbon Starter",
+  "branding": {
+    "copyright": "Toggled.tech",
+    "URL": "//toggled.tech"
+  },
+  "script": "console.log('TEST SCRIPT!')"
 }
