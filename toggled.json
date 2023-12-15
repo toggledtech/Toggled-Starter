@@ -12,8 +12,9 @@
     "doc": "README"
   }],
   "logo": "Toggled.png",
+  "favicon": "Toggled.png",
   "action": {
-    "URL": "//carbon.toggled.tech",
+    "URL": "//toggled.tech",
     "text": "Try Toggled"
   },
   "title": "Toggled Starter",
