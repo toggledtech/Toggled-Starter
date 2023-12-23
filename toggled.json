@@ -23,4 +23,5 @@
     "URL": "//toggled.tech"
   },
   "script": "console.log('TEST SCRIPT!')"
+  "members": ["Usernames of all Editors and Publishers *"]
 }
