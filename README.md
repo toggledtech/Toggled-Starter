@@ -1,7 +1,7 @@
 # Getting Started With Toggled
 
 ### Fork this Template
-Start off by forking this template.
+Start off by forking [this template](https://github.com/toggledtech/Toggled-Starter).
 
 ![How to fork](https://orionideteam.nimbusweb.me/box/attachment/9239909/lyei9z1e23e316aezdac/x1EYvP0pdTsPfNQ9/screenshot-github.com-2023.09.10-11_07_53.png)
 
@@ -19,12 +19,13 @@ Here is what the default `toggled.json` looks like:
     "name": "About",
     "doc": "about"
   }],
-  "logo": "carbon.png",
+  "logo": "Toggled.png",
   "action": {
     "URL": "//toggled.tech",
     "text": "Try Toggled"
   },
-  "title": "Toggled Starter"
+  "title": "Toggled Starter",
+  "members": ["Usernames of all Editors and Publishers *"]
 }
 ```
 
